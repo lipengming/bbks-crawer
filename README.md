@@ -9,14 +9,13 @@ bbks是基于图书搜索的电子阅读、社交平台。系统分为：图书�
 其中图书搜索系统分为：数据抓取系统、数据集成系统和图书检索平台。该应用采用Appache开源协议。
 
 ##	技术	
-
-	###	backend			
-	*	SpringMVC freamwork
-	* 	SpringData
-	* 	Hibernate3.x
-	*	Lunce+CK
-	*	Appache shiro
-	* 	encache		
+###	backend			
+*	SpringMVC freamwork
+* 	SpringData
+* 	Hibernate3.x
+*	Lunce+CK
+*	Appache shiro
+* 	encache		
 
 ##	代码说明
 ###	Note：在阅读下面的内容时，请详细阅读系统接口设计文档，以及数据库设计文档。
