@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="bimoku_v2">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/crawler"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/realtime"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/extract"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/integration"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/weibospider"/>
+        <property name="java-output-path" value="/bimoku_v2/build/classes"/>
+        <property name="context-root" value="bimoku_v2"/>
+    </wb-module>
+</project-modules>
