@@ -27,7 +27,7 @@
 	<bean id="dataSource"   class="com.mchange.v2.c3p0.ComboPooledDataSource"  destroy-method="close">
         
         <property name="driverClass"><value>com.mysql.jdbc.Driver</value></property>
-         <property name="jdbcUrl"><value>jdbc:mysql://127.0.0.1:3306/bbks2?useUnicode=true&amp;characterEncoding=UTF8</value></property>               
+         <property name="jdbcUrl"><value>jdbc:mysql://127.0.0.1:3306/bimokudb2?useUnicode=true&amp;characterEncoding=UTF8</value></property>               
          <property name="user"><value>root</value></property>
          <property name="password"><value>195891</value></property>
          
